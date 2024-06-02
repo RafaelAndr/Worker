@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\windows\\desktop\\projetos vscomunity\\projeto3\\consoleapp4\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\windows\\desktop\\projetos vscomunity\\projeto3\\consoleapp4\\consoleapp4\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\windows\\desktop\\projetos vscomunity\\projeto3\\consoleapp4\\consoleapp4\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\windows\\desktop\\projetos vscomunity\\projeto3\\consoleapp4\\consoleapp4\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\windows\\desktop\\projetos vscomunity\\projeto3\\consoleapp4\\consoleapp4\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F626F9E6-D890-4A54-8CA9-57F9A7243A4A}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\Worker.cs",
+              "RelativeToolTip": "ConsoleApp4\\entities\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:44:24.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\entities\\enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\enums\\WorkerLevel.cs",
+              "RelativeToolTip": "ConsoleApp4\\entities\\enums\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:44:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\HourContract.cs",
+              "RelativeToolTip": "ConsoleApp4\\entities\\HourContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:44:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\Departament.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\entities\\Departament.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\entities\\Departament.cs",
+              "RelativeToolTip": "ConsoleApp4\\entities\\Departament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:44:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Projetos VScomunity\\Projeto3\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:47:03.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
